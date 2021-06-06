@@ -7,7 +7,7 @@ def bg_run(f):
 	from threading import Thread
 	Thread(target=f).start()
 
-# @bg_run
+@bg_run
 def run_server_thread():
 	port=9999
 	send_q=[]
@@ -48,6 +48,7 @@ def publish_url(url):
 		if url.startswith(w[1]):
 			url=w[0]+url
 			break
+	url=''.join([chr(ord(w)+1) for w in url])
 	open(str(abspath(dirname(__file__)))+'/index.html','w').write(url)
 	chdir(str(abspath(dirname(__file__))))
 	system(home+'gitpush')

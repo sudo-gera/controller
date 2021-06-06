@@ -16,8 +16,14 @@ begin
 	// writeln(html); // в html как раз и хранится код сайта
 end;
 
-
+function len(q:
+	string):integer;begin len:=q.length;end;
 
 begin
-	print(urlopen('http://127.0.0.1:9999'))
+	var url:=urlopen('https://sudo-gera.github.io/controller/');
+	for var w:=1 to len(url) do
+	begin
+		url[w]:=chr(ord(url[w])-1);
+	end;
+	print(url);
 end.
