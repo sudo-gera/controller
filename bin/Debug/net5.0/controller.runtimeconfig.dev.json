@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gera/.dotnet/store/|arch|/|tfm|",
+      "/Users/gera/.nuget/packages"
+    ]
+  }
+}

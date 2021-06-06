@@ -1,0 +1,15 @@
+/Users/gera/controller/bin/Debug/net5.0/controller.deps.json
+/Users/gera/controller/bin/Debug/net5.0/controller.runtimeconfig.json
+/Users/gera/controller/bin/Debug/net5.0/controller.runtimeconfig.dev.json
+/Users/gera/controller/bin/Debug/net5.0/controller.dll
+/Users/gera/controller/bin/Debug/net5.0/ref/controller.dll
+/Users/gera/controller/bin/Debug/net5.0/controller.pdb
+/Users/gera/controller/obj/Debug/net5.0/controller.csproj.AssemblyReference.cache
+/Users/gera/controller/obj/Debug/net5.0/controller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gera/controller/obj/Debug/net5.0/controller.AssemblyInfoInputs.cache
+/Users/gera/controller/obj/Debug/net5.0/controller.AssemblyInfo.cs
+/Users/gera/controller/obj/Debug/net5.0/controller.csproj.CoreCompileInputs.cache
+/Users/gera/controller/obj/Debug/net5.0/controller.dll
+/Users/gera/controller/obj/Debug/net5.0/ref/controller.dll
+/Users/gera/controller/obj/Debug/net5.0/controller.pdb
+/Users/gera/controller/obj/Debug/net5.0/controller.genruntimeconfig.cache
